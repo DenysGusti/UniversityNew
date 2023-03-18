@@ -1,0 +1,6 @@
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental.Domain\bin\Debug\CarRental.Domain.dll
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental.Domain\bin\Debug\CarRental.Domain.pdb
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental.Domain\obj\Debug\CarRental.Domain.csproj.AssemblyReference.cache
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental.Domain\obj\Debug\CarRental.Domain.csproj.CoreCompileInputs.cache
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental.Domain\obj\Debug\CarRental.Domain.dll
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental.Domain\obj\Debug\CarRental.Domain.pdb

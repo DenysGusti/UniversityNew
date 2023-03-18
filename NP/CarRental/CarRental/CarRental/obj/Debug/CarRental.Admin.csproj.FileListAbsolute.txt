@@ -1,0 +1,11 @@
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental\bin\Debug\CarRental.Admin.exe.config
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental\bin\Debug\CarRental.Admin.exe
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental\bin\Debug\CarRental.Admin.pdb
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental\bin\Debug\CarRental.Domain.dll
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental\bin\Debug\CarRental.Domain.pdb
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental\obj\Debug\CarRental.Admin.csproj.AssemblyReference.cache
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental\obj\Debug\CarRental.Admin.csproj.SuggestedBindingRedirects.cache
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental\obj\Debug\CarRental.Admin.csproj.CoreCompileInputs.cache
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental\obj\Debug\CarRental.Admin.csproj.CopyComplete
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental\obj\Debug\CarRental.Admin.exe
+C:\Users\denys\RiderProjects\University\PZ\CarRental\CarRental\CarRental\obj\Debug\CarRental.Admin.pdb

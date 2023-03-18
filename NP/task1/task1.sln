@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{A391881A-C972-4A5B-ABC2-F0BF560667E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminMenu", "AdminMenu\AdminMenu.csproj", "{3E6590A8-6D96-46E7-9957-A94213509989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserMenu", "UserMenu\UserMenu.csproj", "{32345326-009A-4854-9E98-87F933D18A84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A391881A-C972-4A5B-ABC2-F0BF560667E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A391881A-C972-4A5B-ABC2-F0BF560667E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A391881A-C972-4A5B-ABC2-F0BF560667E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A391881A-C972-4A5B-ABC2-F0BF560667E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6590A8-6D96-46E7-9957-A94213509989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6590A8-6D96-46E7-9957-A94213509989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6590A8-6D96-46E7-9957-A94213509989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6590A8-6D96-46E7-9957-A94213509989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32345326-009A-4854-9E98-87F933D18A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32345326-009A-4854-9E98-87F933D18A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32345326-009A-4854-9E98-87F933D18A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32345326-009A-4854-9E98-87F933D18A84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

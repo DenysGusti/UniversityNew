@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\denys\\RiderProjects\\University\\NP\\task1\\Logic\\Logic.csproj",
+      "projectUniqueName": "C:\\Users\\denys\\RiderProjects\\UniversityNew\\NP\\task1\\Logic\\Logic.csproj",
       "projectName": "Logic",
-      "projectPath": "C:\\Users\\denys\\RiderProjects\\University\\NP\\task1\\Logic\\Logic.csproj",
+      "projectPath": "C:\\Users\\denys\\RiderProjects\\UniversityNew\\NP\\task1\\Logic\\Logic.csproj",
       "packagesPath": "C:\\Users\\denys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\denys\\RiderProjects\\University\\NP\\task1\\Logic\\obj\\",
+      "outputPath": "C:\\Users\\denys\\RiderProjects\\UniversityNew\\NP\\task1\\Logic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\denys\\AppData\\Roaming\\NuGet\\NuGet.Config",

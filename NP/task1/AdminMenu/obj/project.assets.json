@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\denys\\RiderProjects\\University\\NP\\task1\\AdminMenu\\AdminMenu.csproj",
+      "projectUniqueName": "C:\\Users\\denys\\RiderProjects\\UniversityNew\\NP\\task1\\AdminMenu\\AdminMenu.csproj",
       "projectName": "AdminMenu",
-      "projectPath": "C:\\Users\\denys\\RiderProjects\\University\\NP\\task1\\AdminMenu\\AdminMenu.csproj",
+      "projectPath": "C:\\Users\\denys\\RiderProjects\\UniversityNew\\NP\\task1\\AdminMenu\\AdminMenu.csproj",
       "packagesPath": "C:\\Users\\denys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\denys\\RiderProjects\\University\\NP\\task1\\AdminMenu\\obj\\",
+      "outputPath": "C:\\Users\\denys\\RiderProjects\\UniversityNew\\NP\\task1\\AdminMenu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\denys\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\denys\\RiderProjects\\University\\NP\\task1\\Logic\\Logic.csproj": {
-              "projectPath": "C:\\Users\\denys\\RiderProjects\\University\\NP\\task1\\Logic\\Logic.csproj"
+            "C:\\Users\\denys\\RiderProjects\\UniversityNew\\NP\\task1\\Logic\\Logic.csproj": {
+              "projectPath": "C:\\Users\\denys\\RiderProjects\\UniversityNew\\NP\\task1\\Logic\\Logic.csproj"
             }
           }
         }

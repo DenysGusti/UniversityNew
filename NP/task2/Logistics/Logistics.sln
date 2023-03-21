@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistics.Domain", "Logistics.Domain\Logistics.Domain.csproj", "{06E6DA85-E350-4B01-87CD-13CB8A6ACE98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistics.Admin", "Logistics.Admin\Logistics.Admin.csproj", "{20C459E0-C4AC-41A4-9079-D6411FF69448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistics.User", "Logistics.User\Logistics.User.csproj", "{EEE124D0-29E4-4809-92DE-6BDDF72E04B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06E6DA85-E350-4B01-87CD-13CB8A6ACE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E6DA85-E350-4B01-87CD-13CB8A6ACE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E6DA85-E350-4B01-87CD-13CB8A6ACE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E6DA85-E350-4B01-87CD-13CB8A6ACE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C459E0-C4AC-41A4-9079-D6411FF69448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C459E0-C4AC-41A4-9079-D6411FF69448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C459E0-C4AC-41A4-9079-D6411FF69448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C459E0-C4AC-41A4-9079-D6411FF69448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE124D0-29E4-4809-92DE-6BDDF72E04B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE124D0-29E4-4809-92DE-6BDDF72E04B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE124D0-29E4-4809-92DE-6BDDF72E04B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE124D0-29E4-4809-92DE-6BDDF72E04B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,5 +1,4 @@
-﻿using Logistics.Domain.Models;
-using Logistics.Domain.Repositories.Abstract;
+﻿using Logistics.Domain.Repositories.Abstract;
 
 namespace Logistics.Domain.Factories.RepositoryFactories.Abstract;
 

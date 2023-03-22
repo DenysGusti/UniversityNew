@@ -1,7 +1,7 @@
 ﻿using Logistics.Domain;
+using Logistics.Domain.Exceptions;
 using Logistics.Domain.Models;
-using Logistics.Domain.States.Abstract;
-using Logistics.Domain.States.Concrete;
+using Logistics.Domain.States;
 
 namespace Logistics.Admin.UI;
 
@@ -14,7 +14,7 @@ public class ShippingMenuAdminState : State
                                                         "1. Print all shippings to terminal.\n" +
                                                         "2. Add new shipping from terminal.");
 
-    public override void Handle0() => Menu!.TransitionTo(new ExitState());
+    public override void Handle0() => throw new ExitException("Exit from program.");
     public override void Handle1()
     {
         Menu!.Repository.GetAll().Print();

@@ -1,6 +1,5 @@
 ﻿using Logistics.Domain.Convertor;
 using Logistics.Domain.Factories.RepositoryFactories.Abstract;
-using Logistics.Domain.Models;
 using Logistics.Domain.Repositories.Abstract;
 using Logistics.Domain.Repositories.Concrete;
 using static Logistics.Domain.GlobalSettings.GlobalSettings;

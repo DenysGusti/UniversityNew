@@ -15,11 +15,13 @@ public class ShippingMenuAdminState : State
                                                         "2. Add new shipping from terminal.");
 
     public override void Handle0() => throw new ExitException("Exit from program.");
+    
     public override void Handle1()
     {
         Menu!.Repository.GetAll().Print();
         ShowInfo();
     }
+    
     public override void Handle2()
     {
         Menu!.Repository.Create(new Shipping().GetShippingFromTerminal());

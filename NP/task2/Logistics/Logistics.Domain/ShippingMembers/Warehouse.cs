@@ -19,7 +19,6 @@ public class Warehouse : IConvert<Warehouse>
     }
     
     public override string ToString() => $"{_name}, {_city}, {_capacity}t";
-
-
+    
     public string GetRepresentation() => $"{_name} {_city} {_capacity}";
 }

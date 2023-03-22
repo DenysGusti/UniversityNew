@@ -8,6 +8,6 @@ public class Train : ITransport
     public ShippingFactoryType Type => ShippingFactoryType.Rail;
     
     public override string ToString() => "Train";
-
+    
     public string Deliver() => "Delivered by train.";
 }

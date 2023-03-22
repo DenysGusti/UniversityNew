@@ -6,7 +6,9 @@ namespace Logistics.Domain.Factories.ShippingFactories.Concrete;
 public class ShippingFactoryProvider
 {
     private readonly ShippingFactoryType _type;
+    
     public ShippingFactoryProvider(string type) => _type = Enum.Parse<ShippingFactoryType>(type);
+    
     public IShippingFactory ConfigureFactory() => _type switch
     {
         ShippingFactoryType.Sea => new SeaShippingFactory(),

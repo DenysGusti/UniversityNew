@@ -8,7 +8,9 @@ namespace Logistics.Domain.Factories.RepositoryFactories.Concrete;
 public class RepositoryFactoryProvider<T> where T : EntityBase, IConvert<T>, new()
 {
     private readonly RepositoryFactoryType _type;
+    
     public RepositoryFactoryProvider(RepositoryFactoryType type) => _type = type;
+    
     public IRepositoryFactory<T> ConfigureFactory() => _type switch
     {
         RepositoryFactoryType.Txt => new TxtRepositoryFactory<T>(),

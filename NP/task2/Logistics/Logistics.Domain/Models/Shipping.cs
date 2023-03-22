@@ -15,9 +15,8 @@ public class Shipping: EntityBase, IConvert<Shipping>
     private Warehouse? _warehouseFrom;
     private Warehouse? _warehouseTo;
     private Driver? _driver;
-    
     private ITransport? _transport;
-
+    
     public Shipping() {}
     
     public Shipping(int id, ulong duration, Goods goods, Warehouse warehouseFrom, Warehouse warehouseTo, Driver driver,
@@ -38,7 +37,7 @@ public class Shipping: EntityBase, IConvert<Shipping>
     public string GetRepresentation()
         => $"{Id} {_goods!.GetRepresentation()} {_warehouseFrom!.GetRepresentation()} " +
            $"{_warehouseTo!.GetRepresentation()} {_driver!.GetRepresentation()} {_duration} {_transport!.Type}";
-
+    
     public override string ToString() => $"id: {Id}; goods: {_goods}; from: {_warehouseFrom}; to: {_warehouseTo}; " +
                                          $"driver: {_driver}; duration: {_duration} days; transport: {_transport}";
     

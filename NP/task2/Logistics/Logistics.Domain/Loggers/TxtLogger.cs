@@ -3,11 +3,13 @@
 public sealed class TxtLogger
 {
     public string? File { get; init; }
+    
     private TxtLogger() {}
     
     private static TxtLogger? _instance;
 
     private static readonly object Lock = new();
+    
     public static TxtLogger GetInstance(string file)
     {
         if (_instance != null) return _instance;

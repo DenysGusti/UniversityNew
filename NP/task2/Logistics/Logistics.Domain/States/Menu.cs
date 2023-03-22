@@ -12,14 +12,14 @@ public class Menu
 {
     private State? _state;
     public readonly IRepository<Shipping> Repository;
-
+    
     public Menu(State state, RepositoryFactoryType repositoryType)
     {
         TransitionTo(state);
         Repository = new RepositoryFactoryProvider<Shipping>(repositoryType).ConfigureFactory().CreateRepository();
         HandleInput();
     }
-
+    
     public void TransitionTo(State state)
     {
         _state = state;
@@ -31,7 +31,7 @@ public class Menu
     public void Request1() => _state!.Handle1();
     
     public void Request2() => _state!.Handle2();
-
+    
     public void HandleInput()
     {
         while (true)

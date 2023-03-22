@@ -15,15 +15,15 @@ public class TxtRepository<T> : IRepository<T> where T : EntityBase, IConvert<T>
     }
     
     public T GetById(int id) => _entities[id];
-
+    
     public void Create(T entity)
     {
         _entities.Add(entity.Id, entity);
         WriteToFile();
     }
-
+    
     public void Update(T entity) => _entities[entity.Id] = entity;
-
+    
     public void Delete(T entity) => _entities.Remove(entity.Id);
     
     public T[] GetAll()
@@ -31,7 +31,7 @@ public class TxtRepository<T> : IRepository<T> where T : EntityBase, IConvert<T>
         ReadFromFile();
         return _entities.Values.ToArray();
     }
-
+    
     private void ReadFromFile()
     {
         _entities.Clear();

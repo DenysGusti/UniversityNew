@@ -2,5 +2,5 @@
 
 public enum RepositoryFactoryType
 {
-    Txt
+    Txt, Memory, Mock
 }

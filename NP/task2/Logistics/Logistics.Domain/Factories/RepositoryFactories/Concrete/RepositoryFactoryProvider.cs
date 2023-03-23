@@ -14,6 +14,8 @@ public class RepositoryFactoryProvider<T> where T : EntityBase, IConvert<T>, new
     public IRepositoryFactory<T> ConfigureFactory() => _type switch
     {
         RepositoryFactoryType.Txt => new TxtRepositoryFactory<T>(),
+        RepositoryFactoryType.Memory => new MemoryRepositoryFactory<T>(),
+        RepositoryFactoryType.Mock => new MockRepositoryFactory<T>(),
         _ => throw new ArgumentException($"unexpected type: {_type}", nameof(_type))
     };
 }

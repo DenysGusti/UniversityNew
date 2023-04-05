@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pRjiQ5McPBCXz1dzzZ9MdM34Pyv+SBerdDT6zo88LIuEywWJxKhutoaHLlr9SHFGFaa6rw+LsxBGufOUfWJrGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denys\\RiderProjects\\UniversityNew\\PZ\\task_03\\task_03\\task_03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denys\\.nuget\\packages\\hdf.pinvoke.1.10\\1.10.612\\hdf.pinvoke.1.10.1.10.612.nupkg.sha512",
+    "C:\\Users\\denys\\.nuget\\packages\\hdf5-csharp\\1.17.0\\hdf5-csharp.1.17.0.nupkg.sha512",
+    "C:\\Users\\denys\\.nuget\\packages\\purehdf\\1.0.0-alpha.25\\purehdf.1.0.0-alpha.25.nupkg.sha512",
+    "C:\\Users\\denys\\.nuget\\packages\\system.resources.extensions\\7.0.0\\system.resources.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -5,7 +5,7 @@ namespace Logistics.Domain.Repositories.Concrete;
 
 public class TxtRepository<T> : IRepository<T> where T : EntityBase, IConvert<T>, new()
 {
-    private Dictionary<int, T> _entities = new();
+    private readonly Dictionary<int, T> _entities = new();
     private readonly string _file;
 
     public TxtRepository(string file)
@@ -22,10 +22,18 @@ public class TxtRepository<T> : IRepository<T> where T : EntityBase, IConvert<T>
         WriteToFile();
     }
     
-    public void Update(T entity) => _entities[entity.Id] = entity;
-    
-    public void Delete(T entity) => _entities.Remove(entity.Id);
-    
+    public void Update(T entity)
+    {
+        _entities[entity.Id] = entity;
+        WriteToFile();
+    }
+
+    public void Delete(T entity)
+    {
+        _entities.Remove(entity.Id);
+        WriteToFile();
+    }
+
     public T[] GetAll()
     {
         ReadFromFile();
@@ -47,8 +55,6 @@ public class TxtRepository<T> : IRepository<T> where T : EntityBase, IConvert<T>
     {
         using StreamWriter sw = new(_file);
         foreach (var entity in _entities.Values)
-        {
             sw.WriteLine(entity.GetRepresentation());
-        }
     }
 }

@@ -249,9 +249,5 @@ public partial class Form1 : Form
         _repository.Delete(_repository.GetById(id));
         
         ReloadShippings();
-        foreach (var s in _repository.GetAll())
-        {
-            
-        }
     }
 }

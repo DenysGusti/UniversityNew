@@ -1,0 +1,19 @@
+14.04.2023 15:22:50	An item with the same key has already been added. Key: 1
+14.04.2023 15:24:29	Object reference not set to an instance of an object.
+14.04.2023 15:24:39	Object reference not set to an instance of an object.
+14.04.2023 15:26:20	Object reference not set to an instance of an object.
+14.04.2023 15:33:40	The input string 'b' was not in a correct format.
+14.04.2023 15:34:01	The input string 'b' was not in a correct format.
+14.04.2023 15:34:54	Object reference not set to an instance of an object.
+14.04.2023 15:37:40	Object reference not set to an instance of an object.
+14.04.2023 15:37:45	Object reference not set to an instance of an object.
+14.04.2023 15:42:02	The input string 'b' was not in a correct format.
+14.04.2023 15:43:21	Object reference not set to an instance of an object.
+14.04.2023 15:56:20	An item with the same key has already been added. Key: 6
+15.04.2023 22:12:41	An item with the same key has already been added. Key: 6
+16.04.2023 6:20:23	The input string '' was not in a correct format.
+16.04.2023 6:20:30	The input string '' was not in a correct format.
+16.04.2023 6:20:50	The input string '' was not in a correct format.
+16.04.2023 6:21:03	The input string '' was not in a correct format.
+16.04.2023 6:25:33	The input string '' was not in a correct format.
+16.04.2023 6:31:50	The input string '' was not in a correct format.

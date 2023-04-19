@@ -3,7 +3,6 @@ using Logistics.Domain.Factories.RepositoryFactories.Concrete;
 using Logistics.Domain.Models;
 using Logistics.Domain.Repositories.Abstract;
 using System.Data;
-using static Logistics.Domain.GlobalSettings.GlobalSettings;
 
 namespace Logistics.User.Forms;
 

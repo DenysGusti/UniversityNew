@@ -17,4 +17,3 @@
 16.04.2023 6:21:03	The input string '' was not in a correct format.
 16.04.2023 6:25:33	The input string '' was not in a correct format.
 16.04.2023 6:31:50	The input string '' was not in a correct format.
-28.04.2023 9:35:50	The input string '' was not in a correct format.

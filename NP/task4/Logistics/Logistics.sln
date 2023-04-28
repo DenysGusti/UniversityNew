@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logistics.User", "Logistics
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logistics.Admin.Forms", "Logistics.Admin.Forms\Logistics.Admin.Forms.csproj", "{075DD438-7E5C-43EC-B61D-A0497D3CFAD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistics.User.Forms", "Logistics.User.Forms\Logistics.User.Forms.csproj", "{268A09E2-83C4-40A4-8C88-AFFC9C4281B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logistics.User.Forms", "Logistics.User.Forms\Logistics.User.Forms.csproj", "{268A09E2-83C4-40A4-8C88-AFFC9C4281B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistics.Tests", "Logistics.Tests\Logistics.Tests.csproj", "{E50B1BDA-5088-42DD-B6B0-5DC7612E15F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{268A09E2-83C4-40A4-8C88-AFFC9C4281B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{268A09E2-83C4-40A4-8C88-AFFC9C4281B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{268A09E2-83C4-40A4-8C88-AFFC9C4281B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E50B1BDA-5088-42DD-B6B0-5DC7612E15F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50B1BDA-5088-42DD-B6B0-5DC7612E15F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50B1BDA-5088-42DD-B6B0-5DC7612E15F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50B1BDA-5088-42DD-B6B0-5DC7612E15F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

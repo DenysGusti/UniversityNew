@@ -1,0 +1,15 @@
+/home/denys/RiderProjects/UniversityNew/PZ/task_07/task_07/bin/Debug/net7.0/task_07
+/home/denys/RiderProjects/UniversityNew/PZ/task_07/task_07/bin/Debug/net7.0/task_07.deps.json
+/home/denys/RiderProjects/UniversityNew/PZ/task_07/task_07/bin/Debug/net7.0/task_07.runtimeconfig.json
+/home/denys/RiderProjects/UniversityNew/PZ/task_07/task_07/bin/Debug/net7.0/task_07.dll
+/home/denys/RiderProjects/UniversityNew/PZ/task_07/task_07/bin/Debug/net7.0/task_07.pdb
+/home/denys/RiderProjects/UniversityNew/PZ/task_07/task_07/obj/Debug/net7.0/task_07.csproj.AssemblyReference.cache
+/home/denys/RiderProjects/UniversityNew/PZ/task_07/task_07/obj/Debug/net7.0/task_07.GeneratedMSBuildEditorConfig.editorconfig
+/home/denys/RiderProjects/UniversityNew/PZ/task_07/task_07/obj/Debug/net7.0/task_07.AssemblyInfoInputs.cache
+/home/denys/RiderProjects/UniversityNew/PZ/task_07/task_07/obj/Debug/net7.0/task_07.AssemblyInfo.cs
+/home/denys/RiderProjects/UniversityNew/PZ/task_07/task_07/obj/Debug/net7.0/task_07.csproj.CoreCompileInputs.cache
+/home/denys/RiderProjects/UniversityNew/PZ/task_07/task_07/obj/Debug/net7.0/task_07.dll
+/home/denys/RiderProjects/UniversityNew/PZ/task_07/task_07/obj/Debug/net7.0/refint/task_07.dll
+/home/denys/RiderProjects/UniversityNew/PZ/task_07/task_07/obj/Debug/net7.0/task_07.pdb
+/home/denys/RiderProjects/UniversityNew/PZ/task_07/task_07/obj/Debug/net7.0/task_07.genruntimeconfig.cache
+/home/denys/RiderProjects/UniversityNew/PZ/task_07/task_07/obj/Debug/net7.0/ref/task_07.dll

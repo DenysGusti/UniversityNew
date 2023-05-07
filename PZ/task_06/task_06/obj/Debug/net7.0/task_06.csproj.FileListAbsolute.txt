@@ -1,0 +1,15 @@
+C:\Users\denys\RiderProjects\UniversityNew\PZ\task_06\task_06\bin\Debug\net7.0\task_06.exe
+C:\Users\denys\RiderProjects\UniversityNew\PZ\task_06\task_06\bin\Debug\net7.0\task_06.deps.json
+C:\Users\denys\RiderProjects\UniversityNew\PZ\task_06\task_06\bin\Debug\net7.0\task_06.runtimeconfig.json
+C:\Users\denys\RiderProjects\UniversityNew\PZ\task_06\task_06\bin\Debug\net7.0\task_06.dll
+C:\Users\denys\RiderProjects\UniversityNew\PZ\task_06\task_06\bin\Debug\net7.0\task_06.pdb
+C:\Users\denys\RiderProjects\UniversityNew\PZ\task_06\task_06\obj\Debug\net7.0\task_06.csproj.AssemblyReference.cache
+C:\Users\denys\RiderProjects\UniversityNew\PZ\task_06\task_06\obj\Debug\net7.0\task_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\RiderProjects\UniversityNew\PZ\task_06\task_06\obj\Debug\net7.0\task_06.AssemblyInfoInputs.cache
+C:\Users\denys\RiderProjects\UniversityNew\PZ\task_06\task_06\obj\Debug\net7.0\task_06.AssemblyInfo.cs
+C:\Users\denys\RiderProjects\UniversityNew\PZ\task_06\task_06\obj\Debug\net7.0\task_06.csproj.CoreCompileInputs.cache
+C:\Users\denys\RiderProjects\UniversityNew\PZ\task_06\task_06\obj\Debug\net7.0\task_06.dll
+C:\Users\denys\RiderProjects\UniversityNew\PZ\task_06\task_06\obj\Debug\net7.0\refint\task_06.dll
+C:\Users\denys\RiderProjects\UniversityNew\PZ\task_06\task_06\obj\Debug\net7.0\task_06.pdb
+C:\Users\denys\RiderProjects\UniversityNew\PZ\task_06\task_06\obj\Debug\net7.0\task_06.genruntimeconfig.cache
+C:\Users\denys\RiderProjects\UniversityNew\PZ\task_06\task_06\obj\Debug\net7.0\ref\task_06.dll

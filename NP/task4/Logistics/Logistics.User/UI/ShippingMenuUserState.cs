@@ -1,5 +1,5 @@
-﻿using Logistics.Domain;
-using Logistics.Domain.Exceptions;
+﻿using Logistics.Domain.Exceptions;
+using Logistics.Domain.Models;
 using Logistics.Domain.States;
 
 namespace Logistics.User.UI;

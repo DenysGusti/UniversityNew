@@ -19,3 +19,5 @@
 16.04.2023 6:31:50	The input string '' was not in a correct format.
 28.04.2023 9:35:50	The input string '' was not in a correct format.
 28.04.2023 16:09:38	The input string '3h' was not in a correct format.
+19.05.2023 15:15:55	Exit from program.
+19.05.2023 15:24:12	Exit from program.
